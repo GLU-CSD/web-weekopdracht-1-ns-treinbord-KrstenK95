@@ -21,10 +21,113 @@
     box-sizing: border-box;
     border: 2px solid #000;
 }
+.Blue {
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 10px;
+    width: 440px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+
+}
+.text {
+    position: absolute;
+    font-size: 25px;
+    margin-left: 0px;
+    margin-top: 80px;
+}
+.heerlen {
+    position: absolute;
+    font-size: 30px;
+    margin-top: 25px;
+    margin-left: 5px;
+}
+.intercity {
+    position: absolute;
+    font-size: 30px;
+    margin-top: -10px;
+    margin-left: 230px;
+}
+.minute {
+    position: absolute;
+    font-size: 30px;
+    margin-top: -10px;
+    margin-left: 0px;
+}
+.traintype {
+    position: absolute; 
+    width: 129.05px;
+    height: 40px;
+    top: 5px;
+    right: 5px;
+}
+
+#pic{
+    width: 80px;
+    height: 50px;
+    margin-left: 50px;
+}
+.intercity {
+    position: absolute;
+    font-size: 20px;
+    margin-top: -5;
+    margin-left: 240px;
+    font-size: 30px;
+}
 
 #right{
     width:128px;
     height: 335px;
     background-color: rgb(0, 0, 106);
     border: 2px solid #000;
+}
+.achttien {
+    position: absolute;
+    font-size: 65px;
+    margin-top: 25px;
+    margin-left: 0px;
+}
+.b {
+    position: absolute;
+    font-size: 35px;
+    margin-top: 32px;
+    margin-left: 70px;
+}
+.square2 {
+    position: absolute;
+    width: 20;
+    height: 20;
+
+    margin-left: 12.5px; 
+    margin-top: 10;
+    
+    color:rgb(0, 0, 106) 0,0,106;
+
+    background-color: rgb(0, 0, 106);
+}
+.square {
+    position: absolute;
+    width: 96px;
+    height: 96px;
+
+    margin-left: 12.5px;
+    margin-top: 35px;
+
+    color: rgb(0, 0, 106);
+
+    background-color: rgb(255, 255, 255);
+}
+.bluesquare {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 15px;
+    height: 15px;
+    background-color: rgb(0, 0, 106);
+}
+.spoor {
+    position: absolute;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-left: 20px;
 }
